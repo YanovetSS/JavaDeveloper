@@ -1,6 +1,6 @@
-package module022.dao;
+package module02.dao;
 
-import module022.entities.Project;
+import module02.entities.Project;
 
 /**
  * Created by MakeMeSm1Le- on 01.07.2017.

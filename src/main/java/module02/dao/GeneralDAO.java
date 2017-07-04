@@ -1,4 +1,4 @@
-package module022.dao;
+package module02.dao;
 
 import java.io.Serializable;
 import java.util.Optional;

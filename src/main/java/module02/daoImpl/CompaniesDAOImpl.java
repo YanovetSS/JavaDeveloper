@@ -1,11 +1,10 @@
-package module022.daoImpl;
+package module02.daoImpl;
 
-import module022.dao.CompaniesDAO;
-import module022.entities.Company;
+import module02.dao.CompaniesDAO;
+import module02.entities.Company;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.Serializable;
 import java.sql.*;
 import java.util.Optional;
 

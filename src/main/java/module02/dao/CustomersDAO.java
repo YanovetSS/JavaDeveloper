@@ -1,7 +1,6 @@
-package module022.dao;
+package module02.dao;
 
-import module022.entities.Customers;
-import module022.entities.Developers;
+import module02.entities.Customers;
 
 /**
  * Created by MakeMeSm1Le- on 01.07.2017.

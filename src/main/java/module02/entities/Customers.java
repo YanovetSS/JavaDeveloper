@@ -1,4 +1,4 @@
-package module022.entities;
+package module02.entities;
 
 /**
  * Created by MakeMeSm1Le- on 01.07.2017.

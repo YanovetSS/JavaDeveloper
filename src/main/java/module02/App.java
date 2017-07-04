@@ -1,7 +1,7 @@
-package module022;
+package module02;
 
-import module022.daoImpl.*;
-import module022.entities.*;
+import module02.daoImpl.*;
+import module02.entities.*;
 
 /**
  * Created by MakeMeSm1Le- on 01.07.2017.

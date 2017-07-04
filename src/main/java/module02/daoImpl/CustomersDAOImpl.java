@@ -1,10 +1,9 @@
-package module022.daoImpl;
+package module02.daoImpl;
 
-import module022.dao.CustomersDAO;
-import module022.entities.Customers;
+import module02.dao.CustomersDAO;
+import module02.entities.Customers;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import sun.rmi.runtime.Log;
 
 
 import java.sql.*;

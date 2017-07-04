@@ -1,6 +1,6 @@
-package module022.dao;
+package module02.dao;
 
-import module022.entities.Skills;
+import module02.entities.Skills;
 
 /**
  * Created by MakeMeSm1Le- on 01.07.2017.

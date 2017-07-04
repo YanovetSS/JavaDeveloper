@@ -1,7 +1,7 @@
-package module022.daoImpl;
+package module02.daoImpl;
 
-import module022.dao.DevelopersDAO;
-import module022.entities.Developers;
+import module02.dao.DevelopersDAO;
+import module02.entities.Developers;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
