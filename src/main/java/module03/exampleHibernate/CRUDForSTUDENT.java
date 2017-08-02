@@ -6,6 +6,7 @@ import org.hibernate.SessionFactory;
 /**
  * Created by MakeMeSm1Le- on 14.07.2017.
  */
+
 public class CRUDForSTUDENT {
     public static void main(String[] args) {
         //create student entity object
