@@ -1,0 +1,45 @@
+1.
+GET / HTTP/1.1
+Host:www.example.com
+
+2.
+GET / HTTP/1.1
+Host:www.search.com/index.html?a=18&b=power
+
+3.
+GET / HTTP/1.1
+Host:www.search.com/index.html?a=I+want+to+buy+a+flat
+
+4.
+GET / HTTP/1.1
+Host:buyme.com/купить
+
+5.
+GET / HTTP/1.1
+Host:buyme.com/catalog/dress/delete
+
+6.
+все хорошо - 200
+ресурс не найден - 404(ерор)
+ресурс найден но надо перенаправить на другой ресурс - 301(редерикт)
+запрашиваемый HTTP метод сервером на поддерживается - 304 (Not Modified)
+внутренняя ошибка - 500( Internal Server Error )
+
+7.
+GET / HTTP/1.1
+Host:www.example.com
+Connection: Keep-Alive
+
+8.
+GET / HTTP/1.1
+Host: www.example.org
+Cookie: example_session_cookie
+
+9.
+GET / HTTP/1.1
+Host:auth/com/login?logion=username&passwoord=password
+
+10.
+GET / file.txt HTTP/1.1
+Host: upload.com
+Referer: http://upload.com/
